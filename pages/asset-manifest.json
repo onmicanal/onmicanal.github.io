@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2406c1bb.chunk.css",
+    "main.js": "/static/js/main.3db6f950.chunk.js",
+    "main.js.map": "/static/js/main.3db6f950.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.3e372a93.chunk.css": "/static/css/2.3e372a93.chunk.css",
+    "static/js/2.c0fb45ab.chunk.js": "/static/js/2.c0fb45ab.chunk.js",
+    "static/js/2.c0fb45ab.chunk.js.map": "/static/js/2.c0fb45ab.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e91ef0d01e5fc9dc4b1ae7740db971cc.js": "/precache-manifest.e91ef0d01e5fc9dc4b1ae7740db971cc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.3e372a93.chunk.css.map": "/static/css/2.3e372a93.chunk.css.map",
+    "static/css/main.2406c1bb.chunk.css.map": "/static/css/main.2406c1bb.chunk.css.map",
+    "static/media/cajavoladora.png": "/static/media/cajavoladora.6be73692.png",
+    "static/media/jamarLogo.svg": "/static/media/jamarLogo.3a7a5829.svg",
+    "static/media/vendedoras.png": "/static/media/vendedoras.0e9bb84e.png"
+  }
+}
